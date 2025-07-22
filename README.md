@@ -39,6 +39,6 @@ Analyze transaction and customer data to:
 
 ---
 
-## 📁 Project Structure
+
 
 
